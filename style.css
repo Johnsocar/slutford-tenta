@@ -1,8 +1,8 @@
 /*
-Theme Name: UnderStrap
+Theme Name: Tentan
 Theme URI: https://understrap.com
-Author: Holger Koenemann
-Author URI: https://www.holgerkoenemann.de
+Author: Mathias Johansson
+Author URI: https://www.johnoscar.se
 GitHub Theme URI: https://github.com/understrap/understrap
 Description: Combination of Automattic´s _s theme and Bootstrap 4. Made as a solid starting point for your next theme project and WordPress website. Use it as starter theme or as a parent theme. It is up to you. Including Font Awesome support, built-in widget slider and much more you need for basic websites. IMPORTANT: All developer dependencies are not bundled with this install file. Just download the .zip, extract it and run "npm install" and "gulp copy-assets" inside the extracted /understrap folder.
 That downloads everything and moves it in place so that you can recompile your CSS and JS files;
@@ -13,6 +13,7 @@ License: UnderStrap WordPress Theme, Copyright 2013-2017 Holger Koenemann
 UnderStrap is distributed under the terms of the GNU GPL version 2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: understrap
+Domain Path: /languages
 Tags: one-column, custom-menu, featured-images, theme-options, translation-ready
 
 This theme, like WordPress, is licensed under the GPL.

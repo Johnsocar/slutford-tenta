@@ -1,0 +1,21 @@
+#front-page-hero {
+    
+    background-position: center center;
+    background-attachment: fixed;
+    height: 100%;
+    background-color: $primary;
+    background-repeat: no-repeat;
+    // position: relative;
+    background-size: cover;
+    
+
+    h1 {
+        color: white;
+        margin-left: 1rem;
+    }
+    p {
+        color: white;
+        margin-left: 1rem;
+
+    }
+}

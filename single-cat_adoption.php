@@ -17,7 +17,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 	<div class="<?php echo esc_attr( $container ); ?>" id="content" tabindex="-1">
 
 		<div class="row">
-hejhejhejhejhejhejhiejhij
+
 			<!-- Do the left sidebar check -->
 			<?php get_template_part( 'global-templates/left-sidebar-check' ); ?>
 
@@ -26,7 +26,7 @@ hejhejhejhejhejhejhiejhij
 				<?php
 				while ( have_posts() ) {
 					the_post();
-					get_template_part( 'loop-templates/content', 'single' );
+					get_template_part( 'loop-templates/content', 'adoption-single' );
 					understrap_post_nav();
 
 					// If comments are open or we have at least one comment, load up the comment template.
